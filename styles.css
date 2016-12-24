@@ -1,0 +1,94 @@
+/* Base Styles */
+
+
+h1 {
+	font-family: Brushstroke, fantasy;
+	color: #000000;
+}
+
+body {
+	background-image: url("background.jpg");
+	background-color: #FFFFFF;
+
+}
+
+p {
+	padding: 10px;
+	margin: 0;
+}
+
+.container {
+	border: none;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
+section {
+	border:	none;
+	background-color: #A6A6A6;
+	width: 100%;
+	height: auto;
+	font-family: Helvetica;
+	color: black;
+	position: relative;
+	overflow: auto;
+}
+
+#chicken {
+	
+	text-align: center;
+	font-family: Georgia,sans-serif;
+	font-size: 200%;
+	
+}
+#chicken-div {
+  margin-bottom: 200px;
+  margin-top: 10px;
+}
+
+
+
+.navbar-brand {
+  font-size: 2em;
+  border: 0 0 10px 10px;
+  color: #FFFFFF;
+}
+
+#header-nav {
+  border: 0;
+  background-color: #A6A6A6;
+  color: #000000;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #000000;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.nav-header {
+  background-color: #FFFFFF;
+}
+
+.nav-brand {
+  color: #000000;
+  font-size: 1.5em;
+}
+
+#nav-list {
+  color: black;
+}
+
+hr {
+  border-color: black;
+}
+
+.item {
+  color: black;
+  font-size: 1.2em;
+}
